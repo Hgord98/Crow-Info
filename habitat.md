@@ -1,6 +1,6 @@
 # Habitat of Crows
 
-Crows are highly adaptable birds found in a variety of habitats across the globe. They thrive in both urban and rural environments, showcasing their resiliance and adaptability.[1^]
+Crows are highly adaptable birds found in a variety of habitats across the globe. They thrive in both urban and rural environments, showcasing their resiliance and adaptability.[^1]
 
 ## Types of Habitat
 - **Urban Areas**: Crows often inhabit cities and towns, where they find ample food sources and nesting sites. They are known to forage in parks, garbage bins, and near human activity.
