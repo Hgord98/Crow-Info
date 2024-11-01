@@ -9,4 +9,4 @@ Crows are omnivorous birds with a diverse diet that reflects their adaptability 
 
 [Back to Home](README.md)
 
-[Crow Diet]([https://www.birds.com/crow-diet/](https://abcbirds.org/blog21/what-do-crows-eat/))
+[Crow Diet](https://www.birds.com/crow-diet/](https://abcbirds.org/blog21/what-do-crows-eat/)
